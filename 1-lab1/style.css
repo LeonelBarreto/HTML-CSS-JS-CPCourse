@@ -1,19 +1,21 @@
 body {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     min-height: 100vh;
     background-color:#fff;
     text-align: center;
 
 }
-  
-h1{
-    font-size: 60px;
+
+h1,
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: #933835;
     font-weight: 550;
+
+}
+h1{
+    font-size: 60px;
 }
 
 h2{
     font-size: 30px;
-    color: #933835;
-    font-weight: 550;
 }
