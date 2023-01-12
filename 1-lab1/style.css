@@ -2,6 +2,7 @@ body {
     min-height: 100vh;
     background-color:#fff;
     text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 
@@ -18,4 +19,11 @@ h1{
 
 h2{
     font-size: 30px;
+}
+
+p{
+    font-size: 26px;
+    font-weight: 510;
+    text-align: justify;
+    padding-left: 26%;
 }
