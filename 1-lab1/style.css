@@ -1,8 +1,16 @@
-body {
-    background-color:#fff;
-    text-align: center;
+*{
+    margin: 0;
+    padding: 0;
     font-family: Georgia, 'Times New Roman', Times, serif;
-
+}
+body {
+    min-height: 80vh;
+    background-color: #fff;
+}
+  
+.container {
+    text-align: center;
+    margin: 20px;
 }
 
 h1,
@@ -23,8 +31,6 @@ h2{
 p{
     font-size: 24px;
     font-weight: 500;
-    text-align: left;
-    padding-left: 26%;
 }
 
 .ref{
